@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Flutter Firebase Blog App with Firebase white](https://user-images.githubusercontent.com/55942632/77221041-00115f80-6b6c-11ea-961a-96a007f54eeb.png)
 
     
@@ -12,3 +13,21 @@
 Flutter Blog App made with Flutter. Don't forget to star ⭐ the repo it motivates me to share more open source
 </p>
 
+=======
+# flutter_blog
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+>>>>>>> 231a5ac (daubeba)
